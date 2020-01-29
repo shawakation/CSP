@@ -1,0 +1,10 @@
+*Makefile*
+*.o
+*.exe
+*.layout
+*.rc
+*.cbp
+Debug
+Release
+bin
+obj
