@@ -1,2 +1,2 @@
 # CSP
-Solutions of the CSP exam by CCF.
+历年 CSP 认证试题题解（C++11 实现）
