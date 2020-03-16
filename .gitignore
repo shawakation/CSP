@@ -4,6 +4,7 @@
 *.layout
 *.rc
 *.cbp
+*.dev
 Debug
 Release
 bin
